@@ -1,4 +1,4 @@
-# Stochastic-0L-System-Inference Package
+# S0L System Inference Solver
 Implementation of stochastic 0L-system inference methods (Q1 &amp; Q2) from ‘Optimal L-Systems for Stochastic L-system Inference Problems’ (Lotfi &amp; McQuillan, 2025).
 
 This repository provides an implementation of **stochastic 0L-system** inference methods,
