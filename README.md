@@ -11,7 +11,7 @@ we address two main questions:
 2. **Q2**: Construct a stochastic L-system that globally maximizes the probability
    of generating the sequence (possibly summing over all derivations).
 
-This code implements Theorem 5.1 from the paper (and related results) using
+This code implements Theorem 4.1, Corollary 4.2 and Theorem 5.1 from the paper (and related results) using
 [scipy’s SLSQP optimizer](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.minimize.html).
 
 
